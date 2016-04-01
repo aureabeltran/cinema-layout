@@ -130,6 +130,10 @@ h6{
 .fondo{
 	background-color: #FDBE41; 
 }
+.images-section{
+	padding-bottom: 20px;
+	padding-top:20px;
+}
 .p-news{
 	font-size: 15px;
 	color: #CAC6C6;
